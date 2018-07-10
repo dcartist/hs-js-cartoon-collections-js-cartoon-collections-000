@@ -1,7 +1,7 @@
 /*Adding in comments now so you can understand my logic better
 than attempting to speak especially since i'm already nervous.
 Warning my logic isn't fully considered as normal, but it gets things done */
-function dwarfRollCall(dwarves) { 
+function dwarfRollCall(dwarves) {
   var count = 1 //the starting count for the dwarves
   var returnDwarves = "" //to hold the final string value in the dwarves from the array
   //this for loop for through the dwarves and inserts them into
@@ -63,7 +63,9 @@ function findTheCheese (foods) {
 
 function wordsWithB(words) {
   var bwords = []
-  
+  for (){
+    
+  }
 }
 
 wordsWithB(["paula", "rishi", "bill"]) // ["bill"]
